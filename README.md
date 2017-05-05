@@ -10,7 +10,7 @@ http://www.cnblogs.com/JohnTsai/p/4027229.html
 
 
 
-<span id="jump">#文章开头</span>
+<span id="jump"># 文章开头</span>
 
 
 * [1.语法示例](#1)
