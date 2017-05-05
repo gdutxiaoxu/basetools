@@ -2,7 +2,11 @@
 http://www.cnblogs.com/JohnTsai/p/4027229.html
 
 
-# basetools
+
+* [Cat and dog](#cat-and-dog)
+	* [Cat](#cat)
+		* [A little cat](#a-little-cat)
+	* [Dog](#dog)
 
 
 
@@ -76,10 +80,6 @@ http://www.cnblogs.com/JohnTsai/p/4027229.html
 [点击跳转到文章末尾](#jump)
 
 
-* [Cat and dog](#cat-and-dog)
-	* [Cat](#cat)
-		* [A little cat](#a-little-cat)
-	* [Dog](#dog)
 
 ## Cat and dog
 
